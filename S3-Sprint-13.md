@@ -16,19 +16,19 @@ Bronnen:
 ## 04-09-2024
 Het verschil tussen Svelte en SvelteKit.
 
-# Svelte
+### Svelte
 - Svelte is een frontend JavaScript-framework waarmee je webapplicaties kunt bouwen
 het verschilt van andere frameworks (zoals React) doordat het de meeste van zijn werk tijdens
 de compileertijd doet in plaats van tijdens runtime.
 
-# SvelteKit
+### SvelteKit
 - SvelteKit is een complete applicatieframework dat bovenop Svelte is gebouwd.
 Het biedt een set tools en functies om complexe, webapplicaties te ontwikkelen,
 waaronder routing, server-side rendering (SSR), en statische sitegeneratie (SSG).
 
 De bestandstructuur van SvelteKit.
 
-# src:
+### src:
 Hier zitten alle bestanden en code die je maakt voor je applicatie.
 
 src/routes/
@@ -41,10 +41,10 @@ src/routes/
 src/lib/:
 - Dit is een map waarin je herbruikbare code plaatst, zoals componenten of functies die je in meerdere delen van je app wilt gebruiken.
 
-# static
+### static
 Hierin plaats je statische bestanden zoals afbeeldingen, lettertypen of andere assets die niet veranderen.
 
-# svelte.config.js
+### svelte.config.js
 Dit is het configuratiebestand voor SvelteKit. Hier kun je dingen instellen zoals adapter-opties
 
 ## 05-09-2024
