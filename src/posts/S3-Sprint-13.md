@@ -1,6 +1,6 @@
 ---
 title: S3 Sveltekit
-description: Semester 3 - Sprint 13.
+description: Semester 3 - Sprint 13
 date: '2024-09-01'
 categories:
   - sveltekit
