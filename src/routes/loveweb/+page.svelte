@@ -10,7 +10,7 @@
 	<title>{config.title}</title>
 </svelte:head>
 
-<h1>Journal</h1>
+<h1>We Love Web</h1>
 
 <!-- Posts -->
 <section>
@@ -43,6 +43,9 @@
 	.title {
 		font-size: var(--font-size-fluid-3);
 		text-transform: capitalize;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
 	}
 
 	.date {

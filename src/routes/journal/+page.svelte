@@ -43,6 +43,9 @@
 	.title {
 		font-size: var(--font-size-fluid-3);
 		text-transform: capitalize;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
 	}
 
 	.date {
