@@ -31,8 +31,8 @@ Beschouw animaties en interacties als een uitbreiding van de oorspronkelijke int
 ## Bronnen
 Dit zijn de websites die Nicolas liet zien tijdens de talk van de We Love Web.
 
-https://alcestmusic.com/
-https://filaexplore.com/
-https://vitaarchitecture.com/
-https://liefamsterdam.nl/
-https://loerarchitecten.com/
+- https://alcestmusic.com/
+- https://filaexplore.com/
+- https://vitaarchitecture.com/
+- https://liefamsterdam.nl/
+- https://loerarchitecten.com/
