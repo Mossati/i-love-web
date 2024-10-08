@@ -12,13 +12,13 @@
   <!-- Navigation -->
 	<ul class="links">
 		<li>
-			<a href="/about">About</a>
-		</li>
-		<li>
 			<a href="/journal">Journal</a>
 		</li>
 		<li>
-			<a href="/rss.xml" target="_blank">RSS</a>
+			<a href="/loveweb">We Love Web</a>
+		</li>
+		<li>
+			<a href="/about">About</a>
 		</li>
 	</ul>
 
