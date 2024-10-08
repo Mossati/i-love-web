@@ -90,16 +90,16 @@ We hebben een workshop gehad over Design Critique, en hierbij hebben we principl
 een functionerend ontwerp te maken.
 
 ### Design Principles
-Good design is innovative
-Good design makes a product useful
-Good design is aesthetic
-Good design makes a product understandable
-Good design is unobtrusive
-Good design is honest
-Good design is long-lasting
-Good design is thorough down to the last detail
-Good design is environmentally friendly
-Good design is as little design as possible
+1. Good design is innovative
+2. Good design makes a product useful
+3. Good design is aesthetic
+4. Good design makes a product understandable 
+6. Good design is unobtrusive
+7. Good design is honest
+8. Good design is long-lasting
+9. Good design is thorough down to the last detail
+10. Good design is environmentally friendly
+11. Good design is as little design as possible
 
 ## 📅 Vrijdag - 04/10/2024
 Code/Design review en We Love Web
