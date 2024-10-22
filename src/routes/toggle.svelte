@@ -20,10 +20,11 @@
 
 <style>
 	button {
-		padding: 0;
+		padding: 0.5rem 1rem;
 		font-weight: inherit;
 		background: none;
-		border: none;
+		border: 0.1rem solid var(--border);
+		border-radius: 1rem;
 		box-shadow: none;
 		overflow: hidden;
 	}

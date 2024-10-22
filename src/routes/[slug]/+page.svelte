@@ -39,10 +39,14 @@
 
 	h1 {
 		text-transform: capitalize;
+		color: var(--brand);
 	}
 
 	h1 + p {
 		margin-top: var(--size-2);
+	}
+
+	p {
 		color: var(--text-2);
 	}
 

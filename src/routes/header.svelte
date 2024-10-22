@@ -29,6 +29,7 @@
 <style>
 	nav {
 		padding-block: var(--size-7);
+		align-items: center;
 	}
 
 	.links {
