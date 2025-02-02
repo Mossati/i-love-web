@@ -24,5 +24,5 @@ Het proces van de Web Speech API werkt als volgt:
 Meer informatie over het gebruik van de Web Speech API kan je vinden op [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
 ## Bronnen
-[Dave Bitter](https://www.davebitter.com/)
-[IO Digital](https://techhub.iodigital.com/)
+- [Dave Bitter](https://www.davebitter.com/)
+- [IO Digital](https://techhub.iodigital.com/)
