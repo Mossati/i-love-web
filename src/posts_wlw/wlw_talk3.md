@@ -37,4 +37,4 @@ van een gebruiker interessant maken waardoor ze de pagina vaker bezoeken.
 ## Bronnen
 Dit is de portfolio website van Dion Pieters.
 
-- https://www.dionpieters.dev/
+- [Dion Pieters](https://www.dionpieters.dev/)
