@@ -3,7 +3,7 @@ title: CSS - If() functie
 description: CSS
 date: '2025-03-29'
 categories:
-  - We Love Web
+  - Experimenten
 published: true
 ---
 
