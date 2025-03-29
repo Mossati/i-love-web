@@ -18,6 +18,9 @@
 			<a href="/loveweb">We Love Web</a>
 		</li>
 		<li>
+			<a href="/experiments">Experimenten</a>
+		</li>
+		<li>
 			<a href="/about">About</a>
 		</li>
 	</ul>

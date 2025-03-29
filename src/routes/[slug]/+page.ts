@@ -3,12 +3,12 @@ import { error } from '@sveltejs/kit'
 export async function load({ params }) {
 	try {
 		let post;
+		const paths = ['../../posts/', '../../posts_wlw/', '../../posts_experiments/'];
 
-        try {
-            post = await import(`../../posts/${params.slug}.md`);
-        } catch {
-            post = await import(`../../posts_wlw/${params.slug}.md`);
-        }
+		for (const path of paths) {
+			post = await import(`${path}${params.slug}.md`);
+			break;
+		}
 
 		return {
 			content: post.default,
