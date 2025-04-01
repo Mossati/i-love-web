@@ -10,7 +10,7 @@ published: true
 # CSS -  Anchor Positioning
 
 ## Beschrijving
-???
+Met anchor positioning kan je een target element koppelen aan een anchor element.
 
 ### Anchor-name
 Een standaard element is geen anchor element om het een anchor element te maken moet je een anchor-name toewijzen
